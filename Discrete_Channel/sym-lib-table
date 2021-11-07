@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TPA3244)(type Legacy)(uri ${KIPRJMOD}/Parts/TPA3244.lib)(options "")(descr ""))
+  (lib (name Discrete_Channel-rescue)(type Legacy)(uri ${KIPRJMOD}/Discrete_Channel-rescue.lib)(options "")(descr ""))
+)

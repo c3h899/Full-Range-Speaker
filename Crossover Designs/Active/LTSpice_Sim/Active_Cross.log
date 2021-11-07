@@ -1,0 +1,113 @@
+Circuit: * C:\Users\User\Desktop\Misc\Speaker\Active_XOver\LTSpice\Active_Cross.asc
+
+WARNING: Node HPF is floating.
+
+WARNING: Less than two connections to node HPF.  This node is used by C7.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+Gmin = 1.15292
+Gmin = 0.123794
+Gmin = 0.0132923
+Gmin = 0.00142725
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00101493
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 0.000999238
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0.000999969
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 51.8939%
+vernier = 0.015625
+Source Step = 52.178%
+Source Step = 52.6515%
+Source Step = 52.8646%
+Source Step = 52.983%
+Source Step = 53.1013%
+Source Step = 53.2197%
+Source Step = 53.3381%
+vernier = 0.00585938
+Source Step = 53.486%
+Source Step = 53.6636%
+Source Step = 53.8411%
+Source Step = 54.0187%
+Source Step = 54.1963%
+vernier = 0.00878906
+Source Step = 54.4093%
+Source Step = 54.6757%
+Source Step = 54.942%
+Source Step = 55.2083%
+Source Step = 55.4747%
+vernier = 0.0131836
+Source Step = 55.781%
+Source Step = 56.1805%
+Source Step = 56.58%
+Source Step = 56.9795%
+Source Step = 57.379%
+vernier = 0.0197754
+Source Step = 57.8184%
+Source Step = 58.4177%
+Source Step = 59.0169%
+Source Step = 59.6162%
+Source Step = 60.2154%
+vernier = 0.0296631
+Source Step = 60.8447%
+Source Step = 61.7435%
+Source Step = 62.6424%
+Source Step = 63.5413%
+Source Step = 64.4402%
+Source Step = 65.3391%
+vernier = 0.0444946
+Source Step = 66.6874%
+Source Step = 68.0357%
+Source Step = 69.384%
+Source Step = 70.7323%
+Source Step = 72.0807%
+vernier = 0.0667419
+Source Step = 74.0357%
+Source Step = 76.0582%
+Source Step = 78.0807%
+Source Step = 80.1032%
+Source Step = 82.1257%
+vernier = 0.100113
+Source Step = 84.9571%
+Source Step = 87.9909%
+Source Step = 91.0246%
+Source Step = 94.0583%
+Source Step = 97.092%
+vernier = 0.150169
+Source stepping succeeded in finding the operating point.
+
+
+Date: Fri Nov 05 22:40:58 2021
+Total elapsed time: 0.428 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 4119
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 296
+fillins = 285
+solver = Normal
+Matrix Compiler1:    1708 opcodes
+Matrix Compiler2: 31.28 KB object code size  2.3/2.0/[1.3]
+

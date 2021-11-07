@@ -1,0 +1,11 @@
+Original Concept
+	Fountek, Neo CD 3.0 (Tweeter)
+		**Hard to Find/Buy**
+	Hi-Vi F6 (Full Range)
+	
+Reallized Implementation
+	Fountek Neo X 2.0 (Tweeter)
+	Hi-Vi F8 (Full Range)
+	Dayton Audio SD270A-8 (Sub)
+	Dayton Audio DS270-PR (Passive Radiator)
+		**Because Curious**

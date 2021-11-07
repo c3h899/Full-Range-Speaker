@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Large_Capacitor)(type KiCad)(uri ${KIPRJMOD}/Parts/Large_Capacitor.pretty)(options "")(descr ""))
+  (lib (name Custom_TO)(type KiCad)(uri ${KIPRJMOD}/Parts/Custom_TO.pretty)(options "")(descr ""))
+)
