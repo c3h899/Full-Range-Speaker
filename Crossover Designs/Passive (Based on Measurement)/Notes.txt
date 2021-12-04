@@ -1,0 +1,9 @@
+Passive Filter derived from of 2nd-order Bessel Filter
+Response designed with 3-db (f1 = 200 Hz) and (f2 = 2000 Hz)
+
+Tweeter is high-pass
+Mid-Bass is band-pass
+Sub is low-pass
+
+Frequence and impedance response based on measured (in-situ) data.
+Design has not been validated with physical hardware.
