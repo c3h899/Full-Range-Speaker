@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L TPA3244:TPA3244 U1
+L Discrete_Channel-rescue:TPA3244-TPA3244 U1
 U 1 1 617FED15
 P 2800 5700
 F 0 "U1" H 2875 7075 50  0000 C CNN
@@ -27,7 +27,7 @@ F 5 "TPA3244DDWR" H 2800 5700 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L TPA3244:TPA3244 U1
+L Discrete_Channel-rescue:TPA3244-TPA3244 U1
 U 2 1 61802732
 P 2800 2350
 F 0 "U1" H 2875 3715 50  0000 C CNN
@@ -40,7 +40,7 @@ F 5 "TPA3244DDWR" H 2800 2350 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L TPA3244:TPA3244 U1
+L Discrete_Channel-rescue:TPA3244-TPA3244 U1
 U 3 1 61803DD3
 P 5700 4200
 F 0 "U1" H 5500 5450 50  0000 C CNN
@@ -53,7 +53,7 @@ F 5 "TPA3244DDWR" H 5700 4200 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L TPA3244:TPA3244 U1
+L Discrete_Channel-rescue:TPA3244-TPA3244 U1
 U 4 1 618062DF
 P 5700 5150
 F 0 "U1" H 5500 6400 50  0000 C CNN
@@ -1531,15 +1531,15 @@ Text GLabel 3800 7400 0    50   Input ~ 0
 VCC
 Text GLabel 3800 7200 0    50   Input ~ 0
 VEE
-Text HLabel 1800 7300 0    50   Input ~ 0
+Text HLabel 1800 7000 0    50   Input ~ 0
 ~RESET
-Text HLabel 1800 7200 0    50   Output ~ 0
-OSC_IOM
-Text HLabel 1800 7100 0    50   Output ~ 0
-OSC_IOP
 Text HLabel 1800 7400 0    50   Output ~ 0
+OSC_IOM
+Text HLabel 1800 7300 0    50   Output ~ 0
+OSC_IOP
+Text HLabel 1800 7100 0    50   Output ~ 0
 ~FAULT
-Text HLabel 1800 7000 0    50   Output ~ 0
+Text HLabel 1800 7200 0    50   Output ~ 0
 ~ERROR
 $Comp
 L Connector:Conn_01x05_Male J3
@@ -1718,5 +1718,38 @@ Connection ~ 2150 1850
 Text Label 1950 1850 2    50   ~ 0
 DVDD
 Text Notes 1050 2200 0    50   ~ 0
-Omit R3; Close R3\nTo Configure as Slave
+Omit R3; Close JP1?\nTo Configure as Slave
+$Comp
+L Device:Jumper_NO_Small JP2
+U 1 1 61E2061A
+P 1800 2900
+F 0 "JP2" H 1800 2700 50  0000 C CNN
+F 1 "Star_Point" H 1800 2800 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 1800 2900 50  0001 C CNN
+F 3 "~" H 1800 2900 50  0001 C CNN
+	1    1800 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 61E2223B
+P 1900 2900
+F 0 "#PWR?" H 1900 2650 50  0001 C CNN
+F 1 "GND" H 1900 2750 50  0001 C CNN
+F 2 "" H 1900 2900 50  0001 C CNN
+F 3 "" H 1900 2900 50  0001 C CNN
+	1    1900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR?
+U 1 1 61E23DCD
+P 1700 2900
+F 0 "#PWR?" H 1700 2650 50  0001 C CNN
+F 1 "GNDA" H 1800 2750 50  0000 R CNN
+F 2 "" H 1700 2900 50  0001 C CNN
+F 3 "" H 1700 2900 50  0001 C CNN
+	1    1700 2900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

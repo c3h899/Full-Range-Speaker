@@ -1531,13 +1531,13 @@ Text GLabel 3800 7400 0    50   Input ~ 0
 VCC
 Text GLabel 3800 7200 0    50   Input ~ 0
 VEE
-Text HLabel 1800 7300 0    50   Input ~ 0
+Text HLabel 1800 7200 0    50   Input ~ 0
 ~RESET
-Text HLabel 1800 7200 0    50   Output ~ 0
-OSC_IOM
-Text HLabel 1800 7100 0    50   Output ~ 0
-OSC_IOP
 Text HLabel 1800 7400 0    50   Output ~ 0
+OSC_IOM
+Text HLabel 1800 7300 0    50   Output ~ 0
+OSC_IOP
+Text HLabel 1800 7100 0    50   Output ~ 0
 ~FAULT
 Text HLabel 1800 7000 0    50   Output ~ 0
 ~ERROR
@@ -1718,5 +1718,38 @@ Connection ~ 2150 1850
 Text Label 1950 1850 2    50   ~ 0
 DVDD
 Text Notes 1050 2200 0    50   ~ 0
-Omit R3; Close R3\nTo Configure as Slave
+Omit R3; Close JP1?\nTo Configure as Slave
+$Comp
+L Device:Jumper_NO_Small JP2
+U 1 1 61E2061A
+P 1800 2900
+F 0 "JP2" H 1800 2700 50  0000 C CNN
+F 1 "Star_Point" H 1800 2800 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 1800 2900 50  0001 C CNN
+F 3 "~" H 1800 2900 50  0001 C CNN
+	1    1800 2900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 61E2223B
+P 1900 2900
+F 0 "#PWR0104" H 1900 2650 50  0001 C CNN
+F 1 "GND" H 1900 2750 50  0001 C CNN
+F 2 "" H 1900 2900 50  0001 C CNN
+F 3 "" H 1900 2900 50  0001 C CNN
+	1    1900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDA #PWR0105
+U 1 1 61E23DCD
+P 1700 2900
+F 0 "#PWR0105" H 1700 2650 50  0001 C CNN
+F 1 "GNDA" H 1800 2750 50  0000 R CNN
+F 2 "" H 1700 2900 50  0001 C CNN
+F 3 "" H 1700 2900 50  0001 C CNN
+	1    1700 2900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
