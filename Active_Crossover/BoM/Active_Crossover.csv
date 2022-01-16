@@ -1,0 +1,43 @@
+Item,Qty,Reference(s),Value,Note,Part,Unit Cost,Total
+1,1,C1,300 uF,https://www.parts-express.com/300uF-100V-Non-Polarized-Capacitor-027-371?quantity=1&custcol1=300uF%20100V%20Non-Polarized%20Capacitor&custcol_ava_item=027-371&custcol_ava_incomeaccount=General&custcol_ava_upccode=848864001869&custcol_ava_pickup=F&custcol_disableshopping=F,027-371,5.24,5.24
+2,1,C2,120 nF,https://www.digikey.com/en/products/detail/ECH-U1H124GX9/PCF1553CT-ND/1630916,ECH-U1H124GX9,1.58,1.58
+3,4,"C3, C4, C6, C10",10 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C103GX5/353626,ECH-U1C103GX5,0.364,1.456
+4,2,"C5, C9",33 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C333GX5/353632,ECH-U1C333GX5,0.451,0.902
+5,1,C7,2.7 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1H272GX5/353674,ECH-U1H272GX5,0.338,0.338
+6,3,"C8, C21, C22",100 nF,https://www.digikey.com/en/products/detail/kemet/LDBCC3100GC5N0/3028907,LDBCC3100GC5N0,1.066,3.198
+7,11,"C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C51",100 nF,https://www.digikey.com/en/products/detail/tdk-corporation/C3216C0G1H104J160AA/2733129,C3216C0G1H104J160AA,0.451,4.961
+8,2,"C23, C43",18 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C183GX5/353629,ECH-U1C183GX5,0.476,0.952
+9,2,"C24, C44",6.8 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C682GX5/353624,ECH-U1C682GX5,0.353,0.706
+10,8,"C25, C26, C27, C28, C29, C30, C31, C32",1 uF,https://www.digikey.com/en/products/detail/kemet/C0805C105M5PAC7800/12701410,C0805C105M5PAC7800,0.534,4.272
+11,8,"C33, C34, C35, C36, C37, C38, C39, C40",10 uF,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251,CL31B106KBHNNNE,0.1734,1.3872
+12,2,"C41, C42",470 uF,https://www.digikey.com/en/products/detail/kemet/ESC477M035AH4AA/2712516,ESC477M035AH4AA,0.424,0.848
+13,2,"C45, C52",56 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C563GX5/353635,ECH-U1C563GX5,0.91,1.82
+14,1,C46,3.9 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C392GX5/353621,ECH-U1C392GX5,0.405,0.405
+15,1,C47,8.2 nF,https://www.digikey.com/en/products/detail/ECH-U1C822GX5/PCF1176CT-ND/353723,ECH-U1C822GX5,0.427,0.427
+16,3,"C48, C49, C50",220 nF,https://www.digikey.com/en/products/detail/ECH-U1H224GX9/PCF1556CT-ND/1630919,ECH-U1H224GX9,1.246,3.738
+17,1,C53,68 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C683GX5/353636,ECH-U1C683GX5,0.576,0.576
+18,1,C54,3.3 nF,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECH-U1C332GX5/353620,ECH-U1C332GX5,0.335,0.335
+19,5,"J1, J2, J3, J4, J5",RCA,https://www.digikey.com/en/products/detail/kycon-inc/KLPX-0848A-2-R/9990119,KLPX-0848A-2-R,0.715,3.575
+20,1,JP1,(Opt G=2),,,0,0
+21,2,"R1, R5",6.8k,https://www.digikey.com/en/products/detail/CRGCQ1206F6K8/A129820CT-ND/8577652,CRGCQ1206F6K8,0.308,0.616
+22,2,"R2, R17",3.9k,https://www.digikey.com/en/products/detail/RC1206FR-073K9L/311-3.90KFRCT-ND/731740,RC1206FR-073K9L,0.301,0.602
+23,1,R3,12k,https://www.digikey.com/en/products/detail/CRGCQ1206F12K/A129823CT-ND/8577655,CRGCQ1206F12K,0.0308,0.0308
+24,3,"R4, R26, R35",9.1k,https://www.digikey.com/en/products/detail/RK73H2BTTD9101F/2019-RK73H2BTTD9101FCT-ND/10237691,RK73H2BTTD9101F,0.0244,0.0732
+25,2,"R6, R34",1.0k,https://www.digikey.com/en/products/detail/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675,RNCP1206FTD1K00,0.0326,0.0652
+26,4,"R7, R13, R14, R15",10k,https://www.digikey.com/en/products/detail/RNCP1206FTD10K0/RNCP1206FTD10K0CT-ND/2240708,RNCP1206FTD10K0,0.0326,0.1304
+27,5,"R8, R12, R24, R25, R28",3.3k,https://www.digikey.com/en/products/detail/RK73H2BTTD3301F/2019-RK73H2BTTD3301FCT-ND/10236884,RK73H2BTTD3301F,0.0244,0.122
+28,1,R9,2.0k,https://www.digikey.com/en/products/detail/RNCP1206FTD2K00/RNCP1206FTD2K00CT-ND/2240683,RNCP1206FTD2K00,0.0326,0.0326
+29,2,"R10, R19",2.7k,https://www.digikey.com/en/products/detail/RMCF1206FT2K70/RMCF1206FT2K70CT-ND/2418686,RMCF1206FT2K70,0.0146,0.0292
+30,3,"R11, R21, R33",1.2k,https://www.digikey.com/en/products/detail/RMCF1206FT1K20/738-RMCF1206FT1K20CT-ND/5049859,RMCF1206FT1K20,0.0146,0.0438
+31,1,R16,1.5k,https://www.digikey.com/en/products/detail/CRG1206F1K5/A106071CT-ND/3477723,CRG1206F1K5,0.0292,0.0292
+32,1,R18,7.5k,https://www.digikey.com/en/products/detail/RNCP1206FTD7K50/RNCP1206FTD7K50CT-ND/2240704,RNCP1206FTD7K50,0.0326,0.0326
+33,1,R20,(Un Pop),,,0,0
+34,2,"R22, R29",1.6k,https://www.digikey.com/en/products/detail/RC1206FR-101K6L/13-RC1206FR-101K6LCT-ND/14287573,RC1206FR-101K6L,0.0301,0.0602
+35,1,R23,22k,https://www.digikey.com/en/products/detail/CRGCQ1206F22K/A129826CT-ND/8577658,CRGCQ1206F22K,0.0308,0.0308
+36,2,"R27, R36",3k,https://www.digikey.com/en/products/detail/RC1206FR-073KL/311-3.00KFRCT-ND/731698,RC1206FR-073KL,0.0301,0.0602
+37,1,R30,1.1k,https://www.digikey.com/en/products/detail/RMCF1206FT1K10/738-RMCF1206FT1K10CT-ND/5049858,RMCF1206FT1K10,0.0146,0.0146
+38,1,R31,5.6k,https://www.digikey.com/en/products/detail/CRGCQ1206F5K6/A129819CT-ND/8577651,CRGCQ1206F5K6,0.0308,0.0308
+39,1,R32,2.2k,https://www.digikey.com/en/products/detail/CRG1206F2K2/A106075CT-ND/3477730,CRG1206F2K2,0.0292,0.0292
+40,4,"U1, U2, U3, U4",LM4562,https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793,LM4562NA/NOPB,2.45,9.8
+41,1,,BOARD,OshPark,BOARD,0,0
+Sub-Total,,,,,,,48.549

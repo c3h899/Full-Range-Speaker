@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MeanWell_DCDC)(type Legacy)(uri ${KIPRJMOD}/Libs/MeanWell_DCDC.lib)(options "")(descr ""))
+)
