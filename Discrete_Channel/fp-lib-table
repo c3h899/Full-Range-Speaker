@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name Custom_TO)(type KiCad)(uri C:/Users/User/Desktop/Misc/Speaker/Active_XOver/Parts/Custom_TO.pretty)(options "")(descr ""))
-  (lib (name Large_Capacitor)(type KiCad)(uri C:/Users/User/Desktop/Misc/Speaker/Active_XOver/Parts/Large_Capacitor.pretty)(options "")(descr ""))
-)
