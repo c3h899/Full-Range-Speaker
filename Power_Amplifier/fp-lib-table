@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name Custom_TO)(type KiCad)(uri C:/Users/User/Desktop/Misc/Speaker/Active_XOver/Parts/Custom_TO.pretty)(options "")(descr ""))
-  (lib (name Large_Capacitor)(type KiCad)(uri C:/Users/User/Desktop/Misc/Speaker/Active_XOver/Parts/Large_Capacitor.pretty)(options "")(descr ""))
+  (lib (name Custom_TO)(type KiCad)(uri ${KIPRJMOD}/Parts/Custom_TO.pretty)(options "")(descr ""))
+  (lib (name Large_Capacitor)(type KiCad)(uri ${KIPRJMOD}/Parts/Large_Capacitor.pretty)(options "")(descr ""))
+  (lib (name Inductor_SMD2)(type KiCad)(uri ${KIPRJMOD}/Parts/Inductor_SMD2.pretty)(options "")(descr ""))
 )

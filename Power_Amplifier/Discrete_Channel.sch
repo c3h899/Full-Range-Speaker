@@ -14,11 +14,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 1 1 617FED15
 P 2800 5700
 F 0 "U1" H 2875 7075 50  0000 C CNN
-F 1 "TPA3244" H 2875 6984 50  0000 C CNN
+F 1 "TPA3245" H 2875 6984 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 2500 6200 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 2500 6200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 2800 5700 50  0001 C CNN "Note"
@@ -27,11 +27,11 @@ F 5 "TPA3244DDWR" H 2800 5700 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 2 1 61802732
 P 2800 2350
 F 0 "U1" H 2875 3715 50  0000 C CNN
-F 1 "TPA3244" H 2875 3624 50  0000 C CNN
+F 1 "TPA3245" H 2875 3624 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 2500 2850 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 2500 2850 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 2800 2350 50  0001 C CNN "Note"
@@ -40,11 +40,11 @@ F 5 "TPA3244DDWR" H 2800 2350 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 3 1 61803DD3
 P 5700 4200
 F 0 "U1" H 5500 5450 50  0000 C CNN
-F 1 "TPA3244" H 5950 5450 50  0000 C CNN
+F 1 "TPA3245" H 5950 5450 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 5400 4700 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 5400 4700 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 5700 4200 50  0001 C CNN "Note"
@@ -53,11 +53,11 @@ F 5 "TPA3244DDWR" H 5700 4200 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 4 1 618062DF
 P 5700 5150
 F 0 "U1" H 5500 6400 50  0000 C CNN
-F 1 "TPA3244" H 5950 6400 50  0000 C CNN
+F 1 "TPA3245" H 5950 6400 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 5400 5650 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 5400 5650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 5700 5150 50  0001 C CNN "Note"
@@ -137,7 +137,7 @@ F 3 "" H 2400 4550 50  0001 C CNN
 	1    2400 4550
 	0    1    1    0   
 $EndComp
-Text HLabel 3750 2950 0    50   Input ~ 0
+Text HLabel 3450 2950 0    50   Input ~ 0
 IN_A
 $Comp
 L Device:C_Small C20
@@ -537,10 +537,10 @@ U 1 1 61919789
 P 8050 3500
 F 0 "L2" V 8100 3500 50  0000 C CNN
 F 1 "10 uH" V 8000 3500 50  0000 C CNN
-F 2 "Inductor_SMD:L_12x12mm_H6mm" H 8050 3500 50  0001 C CNN
-F 3 "https://www.we-online.com/katalog/datasheet/74477110.pdf" H 8050 3500 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74477110/1638613" V 8050 3500 50  0001 C CNN "Note"
-F 5 "74477110" V 8050 3500 50  0001 C CNN "Part"
+F 2 "" H 8050 3500 50  0001 C CNN
+F 3 "https://www.we-https://www.mouser.com/datasheet/2/445/7443631000-1721549.pdf" H 8050 3500 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/7443631000/2440338" V 8050 3500 50  0001 C CNN "Note"
+F 5 "7443631000" V 8050 3500 50  0001 C CNN "Part"
 	1    8050 3500
 	0    -1   -1   0   
 $EndComp
@@ -584,7 +584,7 @@ OUT_C
 Text Label 7900 4400 2    50   ~ 0
 OUT_A
 Text Notes 8350 3400 0    50   ~ 0
-TPA3244\nOutputs Paralleled afted LC Filter
+TPA3245\n(PBTL) Outputs Paralleled afted LC Filter
 $Comp
 L Device:C_Small C4
 U 1 1 619B7C53
@@ -1181,7 +1181,7 @@ Wire Wire Line
 Connection ~ 9300 3500
 Wire Wire Line
 	9300 3500 9700 3500
-Text Label 4800 2750 0    50   ~ 0
+Text Label 4950 2950 1    50   ~ 0
 FB_A
 $Comp
 L Device:C_Small C27
@@ -1225,295 +1225,289 @@ $EndComp
 $Comp
 L Device:R_Small_US R5
 U 1 1 61BC3B37
-P 3900 2950
-F 0 "R5" V 3695 2950 50  0000 C CNN
-F 1 "10k" V 3786 2950 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 3900 2950 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 3900 2950 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 3900 2950 50  0001 C CNN "Note"
-F 5 "RNCF0805BKT10K0" H 3900 2950 50  0001 C CNN "Part"
-	1    3900 2950
+P 3600 2950
+F 0 "R5" V 3395 2950 50  0000 C CNN
+F 1 "10k" V 3486 2950 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 3600 2950 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 3600 2950 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 3600 2950 50  0001 C CNN "Note"
+F 5 "RNCF0805BKT10K0" H 3600 2950 50  0001 C CNN "Part"
+	1    3600 2950
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small_US R8
 U 1 1 61BC5783
-P 4400 2750
-F 0 "R8" V 4300 2650 50  0000 C CNN
-F 1 "10k" V 4300 2850 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 4400 2750 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 4400 2750 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 4400 2750 50  0001 C CNN "Note"
-F 5 "RNCF0805BKT10K0" H 4400 2750 50  0001 C CNN "Part"
-	1    4400 2750
+P 4100 2750
+F 0 "R8" V 4000 2650 50  0000 C CNN
+F 1 "10k" V 4000 2850 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 4100 2750 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 4100 2750 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 4100 2750 50  0001 C CNN "Note"
+F 5 "RNCF0805BKT10K0" H 4100 2750 50  0001 C CNN "Part"
+	1    4100 2750
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:C_Small C19
 U 1 1 61BC706D
-P 4400 2550
-F 0 "C19" V 4450 2650 50  0000 C CNN
-F 1 "330 pF" V 4450 2350 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4400 2550 50  0001 C CNN
-F 3 "https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1H331JX5" H 4400 2550 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/ECH-U1H331JX5/PCF1322CT-ND/353794" V 4400 2550 50  0001 C CNN "Note"
-F 5 "ECH-U1H331JX5" H 4400 2550 50  0001 C CNN "Part"
-	1    4400 2550
+P 4100 2550
+F 0 "C19" V 4150 2650 50  0000 C CNN
+F 1 "330 pF" V 4150 2350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4100 2550 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1H331JX5" H 4100 2550 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/ECH-U1H331JX5/PCF1322CT-ND/353794" V 4100 2550 50  0001 C CNN "Note"
+F 5 "ECH-U1H331JX5" H 4100 2550 50  0001 C CNN "Part"
+	1    4100 2550
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4000 2950 4050 2950
+	3700 2950 3750 2950
+Wire Wire Line
+	4000 2750 3900 2750
+Wire Wire Line
+	3750 2750 3750 2950
+Connection ~ 3750 2950
+Wire Wire Line
+	3750 2950 3800 2950
+Wire Wire Line
+	4000 2550 3900 2550
+Wire Wire Line
+	3900 2550 3900 2750
+Connection ~ 3900 2750
+Wire Wire Line
+	3900 2750 3750 2750
+Wire Wire Line
+	4200 2550 4300 2550
+Wire Wire Line
+	4300 2550 4300 2750
 Wire Wire Line
 	4300 2750 4200 2750
 Wire Wire Line
-	4050 2750 4050 2950
-Connection ~ 4050 2950
+	4400 3050 4450 3050
 Wire Wire Line
-	4050 2950 4100 2950
+	4450 3050 4450 2750
 Wire Wire Line
-	4300 2550 4200 2550
+	4450 2750 4300 2750
+Connection ~ 4450 3050
+Connection ~ 4300 2750
 Wire Wire Line
-	4200 2550 4200 2750
-Connection ~ 4200 2750
-Wire Wire Line
-	4200 2750 4050 2750
-Wire Wire Line
-	4500 2550 4600 2550
-Wire Wire Line
-	4600 2550 4600 2750
-Wire Wire Line
-	4600 2750 4500 2750
-Wire Wire Line
-	4700 3050 4750 3050
-Wire Wire Line
-	4750 3050 4750 2750
-Wire Wire Line
-	4750 2750 4600 2750
-Connection ~ 4750 3050
-Connection ~ 4600 2750
-Wire Wire Line
-	3800 2950 3750 2950
-Wire Wire Line
-	4750 2750 4800 2750
-Connection ~ 4750 2750
-Text HLabel 3750 3600 0    50   Input ~ 0
+	3500 2950 3450 2950
+Text HLabel 3450 3600 0    50   Input ~ 0
 IN_B
-Text Label 4800 3800 0    50   ~ 0
+Text Label 4950 3600 3    50   ~ 0
 FB_B
 $Comp
 L Device:R_Small_US R6
 U 1 1 61C0D596
-P 3900 3600
-F 0 "R6" V 3800 3600 50  0000 C CNN
-F 1 "10k" V 3700 3600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 3900 3600 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 3900 3600 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 3900 3600 50  0001 C CNN "Note"
-F 5 "RNCF0805BKT10K0" H 3900 3600 50  0001 C CNN "Part"
-	1    3900 3600
+P 3600 3600
+F 0 "R6" V 3500 3600 50  0000 C CNN
+F 1 "10k" V 3400 3600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 3600 3600 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 3600 3600 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 3600 3600 50  0001 C CNN "Note"
+F 5 "RNCF0805BKT10K0" H 3600 3600 50  0001 C CNN "Part"
+	1    3600 3600
 	0    1    -1   0   
 $EndComp
 $Comp
 L Device:R_Small_US R7
 U 1 1 61C0D5A0
-P 4400 3800
-F 0 "R7" V 4300 3700 50  0000 C CNN
-F 1 "10k" V 4300 3900 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 4400 3800 50  0001 C CNN
-F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 4400 3800 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 4400 3800 50  0001 C CNN "Note"
-F 5 "RNCF0805BKT10K0" H 4400 3800 50  0001 C CNN "Part"
-	1    4400 3800
+P 4100 3800
+F 0 "R7" V 4000 3700 50  0000 C CNN
+F 1 "10k" V 4000 3900 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 4100 3800 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 4100 3800 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 4100 3800 50  0001 C CNN "Note"
+F 5 "RNCF0805BKT10K0" H 4100 3800 50  0001 C CNN "Part"
+	1    4100 3800
 	0    1    -1   0   
 $EndComp
 $Comp
 L Device:C_Small C18
 U 1 1 61C0D5AB
-P 4400 4000
-F 0 "C18" V 4450 4100 50  0000 C CNN
-F 1 "330 pF" V 4450 3800 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4400 4000 50  0001 C CNN
-F 3 "https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1H331JX5" H 4400 4000 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/ECH-U1H331JX5/PCF1322CT-ND/353794" V 4400 4000 50  0001 C CNN "Note"
-F 5 "ECH-U1H331JX5" H 4400 4000 50  0001 C CNN "Part"
-	1    4400 4000
+P 4100 4000
+F 0 "C18" V 4150 4100 50  0000 C CNN
+F 1 "330 pF" V 4150 3800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4100 4000 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1H331JX5" H 4100 4000 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/ECH-U1H331JX5/PCF1322CT-ND/353794" V 4100 4000 50  0001 C CNN "Note"
+F 5 "ECH-U1H331JX5" H 4100 4000 50  0001 C CNN "Part"
+	1    4100 4000
 	0    -1   1    0   
 $EndComp
 Wire Wire Line
-	4000 3600 4050 3600
+	3700 3600 3750 3600
+Wire Wire Line
+	4000 3800 3900 3800
+Wire Wire Line
+	3750 3800 3750 3600
+Connection ~ 3750 3600
+Wire Wire Line
+	3750 3600 3800 3600
+Wire Wire Line
+	4000 4000 3900 4000
+Wire Wire Line
+	3900 4000 3900 3800
+Connection ~ 3900 3800
+Wire Wire Line
+	3900 3800 3750 3800
+Wire Wire Line
+	4200 4000 4300 4000
+Wire Wire Line
+	4300 4000 4300 3800
 Wire Wire Line
 	4300 3800 4200 3800
 Wire Wire Line
-	4050 3800 4050 3600
-Connection ~ 4050 3600
+	4400 3500 4450 3500
 Wire Wire Line
-	4050 3600 4100 3600
+	4450 3500 4450 3800
 Wire Wire Line
-	4300 4000 4200 4000
+	4450 3800 4300 3800
+Connection ~ 4450 3500
+Connection ~ 4300 3800
 Wire Wire Line
-	4200 4000 4200 3800
-Connection ~ 4200 3800
+	3500 3600 3450 3600
 Wire Wire Line
-	4200 3800 4050 3800
+	4450 3500 4550 3500
 Wire Wire Line
-	4500 4000 4600 4000
-Wire Wire Line
-	4600 4000 4600 3800
-Wire Wire Line
-	4600 3800 4500 3800
-Wire Wire Line
-	4700 3500 4750 3500
-Wire Wire Line
-	4750 3500 4750 3800
-Wire Wire Line
-	4750 3800 4600 3800
-Connection ~ 4750 3500
-Connection ~ 4600 3800
-Wire Wire Line
-	3800 3600 3750 3600
-Wire Wire Line
-	4750 3800 4800 3800
-Connection ~ 4750 3800
-Wire Wire Line
-	4750 3500 5050 3500
-Wire Wire Line
-	4750 3050 5050 3050
+	4450 3050 4550 3050
 $Comp
 L Device:C_Small C13
 U 1 1 61C9B06E
-P 2950 3400
-F 0 "C13" H 3050 3500 50  0000 C CNN
-F 1 "100 nF" H 3100 3300 50  0000 C CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 2950 3400 50  0001 C CNN
-F 3 "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3216c0g1h104j160aa.pdf" H 2950 3400 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/C3216C0G1H104J160AA/445-7694-1-ND/2733766" H 2950 3400 50  0001 C CNN "Note"
-F 5 "C3216C0G1H104J160AA" H 2950 3400 50  0001 C CNN "Part"
-	1    2950 3400
+P 2650 3400
+F 0 "C13" H 2750 3500 50  0000 C CNN
+F 1 "100 nF" H 2800 3300 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 2650 3400 50  0001 C CNN
+F 3 "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3216c0g1h104j160aa.pdf" H 2650 3400 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/C3216C0G1H104J160AA/445-7694-1-ND/2733766" H 2650 3400 50  0001 C CNN "Note"
+F 5 "C3216C0G1H104J160AA" H 2650 3400 50  0001 C CNN "Part"
+	1    2650 3400
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:C_Small C12
 U 1 1 61C9BECF
-P 2950 3050
-F 0 "C12" H 3050 3150 50  0000 C CNN
-F 1 "100 nF" H 3100 2950 50  0000 C CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 2950 3050 50  0001 C CNN
-F 3 "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3216c0g1h104j160aa.pdf" H 2950 3050 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/C3216C0G1H104J160AA/445-7694-1-ND/2733766" H 2950 3050 50  0001 C CNN "Note"
-F 5 "C3216C0G1H104J160AA" H 2950 3050 50  0001 C CNN "Part"
-	1    2950 3050
+P 2650 3050
+F 0 "C12" H 2750 3150 50  0000 C CNN
+F 1 "100 nF" H 2800 2950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 2650 3050 50  0001 C CNN
+F 3 "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/charasheet/c3216c0g1h104j160aa.pdf" H 2650 3050 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/C3216C0G1H104J160AA/445-7694-1-ND/2733766" H 2650 3050 50  0001 C CNN "Note"
+F 5 "C3216C0G1H104J160AA" H 2650 3050 50  0001 C CNN "Part"
+	1    2650 3050
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:C_Small C10
 U 1 1 61C9C6D6
-P 2600 3050
-F 0 "C10" H 2450 3150 50  0000 L CNN
-F 1 "1 uF" H 2400 2950 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2600 3050 50  0001 C CNN
-F 3 "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf" H 2600 3050 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/C0805C105M5PAC7800/399-C0805C105M5PAC7800CT-ND/12701548" H 2600 3050 50  0001 C CNN "Note"
-F 5 "C0805C105M5PAC7800" H 2600 3050 50  0001 C CNN "Part"
-	1    2600 3050
+P 2300 3050
+F 0 "C10" H 2150 3150 50  0000 L CNN
+F 1 "1 uF" H 2100 2950 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2300 3050 50  0001 C CNN
+F 3 "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf" H 2300 3050 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/C0805C105M5PAC7800/399-C0805C105M5PAC7800CT-ND/12701548" H 2300 3050 50  0001 C CNN "Note"
+F 5 "C0805C105M5PAC7800" H 2300 3050 50  0001 C CNN "Part"
+	1    2300 3050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C_Small C11
 U 1 1 61C9DAE3
-P 2600 3400
-F 0 "C11" H 2450 3500 50  0000 L CNN
-F 1 "1 uF" H 2400 3300 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2600 3400 50  0001 C CNN
-F 3 "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf" H 2600 3400 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/C0805C105M5PAC7800/399-C0805C105M5PAC7800CT-ND/12701548" H 2600 3400 50  0001 C CNN "Note"
-F 5 "C0805C105M5PAC7800" H 2600 3400 50  0001 C CNN "Part"
-	1    2600 3400
+P 2300 3400
+F 0 "C11" H 2150 3500 50  0000 L CNN
+F 1 "1 uF" H 2100 3300 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2300 3400 50  0001 C CNN
+F 3 "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf" H 2300 3400 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/C0805C105M5PAC7800/399-C0805C105M5PAC7800CT-ND/12701548" H 2300 3400 50  0001 C CNN "Note"
+F 5 "C0805C105M5PAC7800" H 2300 3400 50  0001 C CNN "Part"
+	1    2300 3400
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3250 3550 3250 3600
+	2950 3550 2950 3600
 Wire Wire Line
-	3250 3600 2950 3600
+	2950 3600 2650 3600
 Wire Wire Line
-	2600 3600 2600 3500
+	2300 3600 2300 3500
 Wire Wire Line
-	2950 3500 2950 3600
-Connection ~ 2950 3600
+	2650 3500 2650 3600
+Connection ~ 2650 3600
 Wire Wire Line
-	2950 3600 2600 3600
+	2650 3600 2300 3600
 Wire Wire Line
-	2950 3300 2950 3200
+	2650 3300 2650 3200
 Wire Wire Line
-	2600 3300 2600 3200
+	2300 3300 2300 3200
 Wire Wire Line
-	2950 3200 2600 3200
-Connection ~ 2950 3200
+	2650 3200 2300 3200
+Connection ~ 2650 3200
 Wire Wire Line
-	2950 3200 2950 3150
-Connection ~ 2600 3200
+	2650 3200 2650 3150
+Connection ~ 2300 3200
 Wire Wire Line
-	2600 3200 2600 3150
+	2300 3200 2300 3150
 Wire Wire Line
-	2600 3200 2400 3200
-Wire Wire Line
-	3250 2950 3250 2900
-Wire Wire Line
-	2600 2900 2600 2950
-Wire Wire Line
-	2600 2900 2950 2900
+	2300 3200 2100 3200
 Wire Wire Line
 	2950 2950 2950 2900
-Connection ~ 2950 2900
 Wire Wire Line
-	2950 2900 3250 2900
+	2300 2900 2300 2950
 Wire Wire Line
-	2600 2900 2400 2900
-Connection ~ 2600 2900
+	2300 2900 2650 2900
 Wire Wire Line
-	2600 3600 2400 3600
-Connection ~ 2600 3600
-Text GLabel 2400 2900 0    50   Input ~ 0
+	2650 2950 2650 2900
+Connection ~ 2650 2900
+Wire Wire Line
+	2650 2900 2950 2900
+Wire Wire Line
+	2300 2900 2100 2900
+Connection ~ 2300 2900
+Wire Wire Line
+	2300 3600 2100 3600
+Connection ~ 2300 3600
+Text GLabel 2100 2900 0    50   Input ~ 0
 VCC
-Text GLabel 2400 3600 0    50   Input ~ 0
+Text GLabel 2100 3600 0    50   Input ~ 0
 VEE
 $Comp
 L Amplifier_Operational:LM4562 U2
 U 1 1 618244D4
-P 4400 3050
-F 0 "U2" H 4600 3150 50  0000 C CNN
-F 1 "LM4562" H 4550 3250 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 4400 3050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm4562.pdf" H 4400 3050 50  0001 C CNN
-F 4 "" H 4400 3050 50  0001 C CNN "Field4"
-F 5 "https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793" H 4400 3050 50  0001 C CNN "Note"
-F 6 "LM4562NA/NOPB" H 4400 3050 50  0001 C CNN "Part"
-	1    4400 3050
+P 4100 3050
+F 0 "U2" H 4300 3150 50  0000 C CNN
+F 1 "LM4562" H 4250 3250 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 4100 3050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm4562.pdf" H 4100 3050 50  0001 C CNN
+F 4 "" H 4100 3050 50  0001 C CNN "Field4"
+F 5 "https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793" H 4100 3050 50  0001 C CNN "Note"
+F 6 "LM4562NA/NOPB" H 4100 3050 50  0001 C CNN "Part"
+	1    4100 3050
 	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:LM4562 U2
 U 2 1 61826B0A
-P 4400 3500
-F 0 "U2" H 4600 3400 50  0000 C CNN
-F 1 "LM4562" H 4550 3300 50  0000 C CNN
-F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 4400 3500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm4562.pdf" H 4400 3500 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793" H 4400 3500 50  0001 C CNN "Note"
-F 5 "LM4562NA/NOPB" H 4400 3500 50  0001 C CNN "Part"
-	2    4400 3500
+P 4100 3500
+F 0 "U2" H 4300 3400 50  0000 C CNN
+F 1 "LM4562" H 4250 3300 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 4100 3500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm4562.pdf" H 4100 3500 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793" H 4100 3500 50  0001 C CNN "Note"
+F 5 "LM4562NA/NOPB" H 4100 3500 50  0001 C CNN "Part"
+	2    4100 3500
 	1    0    0    -1  
 $EndComp
 $Comp
 L Amplifier_Operational:LM4562 U2
 U 3 1 61827B6A
-P 3350 3250
-F 0 "U2" H 3308 3296 50  0000 L CNN
-F 1 "LM4562" H 3308 3205 50  0000 L CNN
-F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 3350 3250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm4562.pdf" H 3350 3250 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793" H 3350 3250 50  0001 C CNN "Note"
-F 5 "LM4562NA/NOPB" H 3350 3250 50  0001 C CNN "Part"
-	3    3350 3250
+P 3050 3250
+F 0 "U2" H 3008 3296 50  0000 L CNN
+F 1 "LM4562" H 3008 3205 50  0000 L CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 3050 3250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm4562.pdf" H 3050 3250 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/texas-instruments/LM4562NA-NOPB/1217793" H 3050 3250 50  0001 C CNN "Note"
+F 5 "LM4562NA/NOPB" H 3050 3250 50  0001 C CNN "Part"
+	3    3050 3250
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1585,23 +1579,23 @@ $EndComp
 $Comp
 L power:GNDA #PWR016
 U 1 1 61871BA3
-P 4100 3400
-F 0 "#PWR016" H 4100 3150 50  0001 C CNN
-F 1 "GNDA" V 4105 3273 50  0000 R CNN
-F 2 "" H 4100 3400 50  0001 C CNN
-F 3 "" H 4100 3400 50  0001 C CNN
-	1    4100 3400
+P 3800 3400
+F 0 "#PWR016" H 3800 3150 50  0001 C CNN
+F 1 "GNDA" V 3805 3273 50  0000 R CNN
+F 2 "" H 3800 3400 50  0001 C CNN
+F 3 "" H 3800 3400 50  0001 C CNN
+	1    3800 3400
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GNDA #PWR015
 U 1 1 618722DF
-P 4100 3150
-F 0 "#PWR015" H 4100 2900 50  0001 C CNN
-F 1 "GNDA" V 4105 3023 50  0000 R CNN
-F 2 "" H 4100 3150 50  0001 C CNN
-F 3 "" H 4100 3150 50  0001 C CNN
-	1    4100 3150
+P 3800 3150
+F 0 "#PWR015" H 3800 2900 50  0001 C CNN
+F 1 "GNDA" V 3805 3023 50  0000 R CNN
+F 2 "" H 3800 3150 50  0001 C CNN
+F 3 "" H 3800 3150 50  0001 C CNN
+	1    3800 3150
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1656,12 +1650,12 @@ Text Label 2800 7300 2    50   ~ 0
 $Comp
 L power:GNDA #PWR0101
 U 1 1 618B9816
-P 2400 3200
-F 0 "#PWR0101" H 2400 2950 50  0001 C CNN
-F 1 "GNDA" V 2405 3073 50  0000 R CNN
-F 2 "" H 2400 3200 50  0001 C CNN
-F 3 "" H 2400 3200 50  0001 C CNN
-	1    2400 3200
+P 2100 3200
+F 0 "#PWR0101" H 2100 2950 50  0001 C CNN
+F 1 "GNDA" V 2105 3073 50  0000 R CNN
+F 2 "" H 2100 3200 50  0001 C CNN
+F 3 "" H 2100 3200 50  0001 C CNN
+	1    2100 3200
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1722,34 +1716,108 @@ Omit R3; Close JP1?\nTo Configure as Slave
 $Comp
 L Device:Jumper_NO_Small JP2
 U 1 1 61E2061A
-P 1800 2900
-F 0 "JP2" H 1800 2700 50  0000 C CNN
-F 1 "Star_Point" H 1800 2800 50  0000 C CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 1800 2900 50  0001 C CNN
-F 3 "~" H 1800 2900 50  0001 C CNN
-	1    1800 2900
+P 1500 2900
+F 0 "JP2" H 1500 2700 50  0000 C CNN
+F 1 "Star_Point" H 1500 2800 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 1500 2900 50  0001 C CNN
+F 3 "~" H 1500 2900 50  0001 C CNN
+	1    1500 2900
 	-1   0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR0104
 U 1 1 61E2223B
-P 1900 2900
-F 0 "#PWR0104" H 1900 2650 50  0001 C CNN
-F 1 "GND" H 1900 2750 50  0001 C CNN
-F 2 "" H 1900 2900 50  0001 C CNN
-F 3 "" H 1900 2900 50  0001 C CNN
-	1    1900 2900
+P 1600 2900
+F 0 "#PWR0104" H 1600 2650 50  0001 C CNN
+F 1 "GND" H 1600 2750 50  0001 C CNN
+F 2 "" H 1600 2900 50  0001 C CNN
+F 3 "" H 1600 2900 50  0001 C CNN
+	1    1600 2900
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GNDA #PWR0105
 U 1 1 61E23DCD
-P 1700 2900
-F 0 "#PWR0105" H 1700 2650 50  0001 C CNN
-F 1 "GNDA" H 1800 2750 50  0000 R CNN
-F 2 "" H 1700 2900 50  0001 C CNN
-F 3 "" H 1700 2900 50  0001 C CNN
-	1    1700 2900
+P 1400 2900
+F 0 "#PWR0105" H 1400 2650 50  0001 C CNN
+F 1 "GNDA" H 1500 2750 50  0000 R CNN
+F 2 "" H 1400 2900 50  0001 C CNN
+F 3 "" H 1400 2900 50  0001 C CNN
+	1    1400 2900
 	1    0    0    -1  
 $EndComp
+Text Notes 10600 7650 0    50   ~ 0
+3
+Text Notes 7000 6700 0    50   ~ 0
+Revision Notes:\nAdopted TPA3245 for Heatsinking
+Wire Notes Line
+	3700 4800 3700 5000
+Wire Notes Line
+	3700 5000 4000 5000
+Wire Notes Line
+	4000 5000 4000 4800
+Wire Notes Line
+	4000 4800 3700 4800
+Wire Notes Line
+	8150 4150 8550 4150
+Wire Notes Line
+	8550 4150 8550 3700
+Wire Notes Line
+	8550 3700 8150 3700
+Wire Notes Line
+	8150 3700 8150 4150
+Wire Notes Line
+	8200 3600 8200 3400
+Wire Notes Line
+	8200 3400 7650 3400
+Wire Notes Line
+	7650 3400 7650 3600
+Wire Notes Line
+	7650 3600 8200 3600
+Text Notes 3550 5450 0    50   ~ 0
+Note: L1 based on design of\nTPA3244EVM Evaluation Module
+Text Notes 2650 2150 0    50   ~ 0
+Note: R3 Sets F_PWM to 450 kHz per (7.3)
+$Comp
+L Device:R_Small_US R?
+U 1 1 636EA809
+P 4650 3050
+F 0 "R?" V 4550 2950 50  0000 C CNN
+F 1 "2.7k" V 4550 3150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 4650 3050 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 4650 3050 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 4650 3050 50  0001 C CNN "Note"
+F 5 "RNCF0805BKT10K0" H 4650 3050 50  0001 C CNN "Part"
+	1    4650 3050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small_US R?
+U 1 1 636EAF29
+P 4650 3500
+F 0 "R?" V 4550 3400 50  0000 C CNN
+F 1 "2.7k" V 4550 3600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 4650 3500 50  0001 C CNN
+F 3 "https://www.seielect.com/catalog/sei-rncf.pdf" H 4650 3500 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCF0805BKT10K0/1711521" H 4650 3500 50  0001 C CNN "Note"
+F 5 "RNCF0805BKT10K0" H 4650 3500 50  0001 C CNN "Part"
+	1    4650 3500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5050 3500 4950 3500
+Wire Wire Line
+	4950 3500 4950 3600
+Connection ~ 4950 3500
+Wire Wire Line
+	4950 3500 4750 3500
+Wire Wire Line
+	5050 3050 4950 3050
+Wire Wire Line
+	4950 3050 4950 2950
+Connection ~ 4950 3050
+Wire Wire Line
+	4950 3050 4750 3050
+Text Notes 8600 5150 0    50   ~ 0
+(Optional) Post-Filter Feedback Implemented\nBased on (Figure 2; Table 1) of Ti's SLAA788A
 $EndSCHEMATC

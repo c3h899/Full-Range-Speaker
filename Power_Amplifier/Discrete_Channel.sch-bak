@@ -14,11 +14,11 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 1 1 617FED15
 P 2800 5700
 F 0 "U1" H 2875 7075 50  0000 C CNN
-F 1 "TPA3244" H 2875 6984 50  0000 C CNN
+F 1 "TPA3245" H 2875 6984 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 2500 6200 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 2500 6200 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 2800 5700 50  0001 C CNN "Note"
@@ -27,11 +27,11 @@ F 5 "TPA3244DDWR" H 2800 5700 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 2 1 61802732
 P 2800 2350
 F 0 "U1" H 2875 3715 50  0000 C CNN
-F 1 "TPA3244" H 2875 3624 50  0000 C CNN
+F 1 "TPA3245" H 2875 3624 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 2500 2850 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 2500 2850 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 2800 2350 50  0001 C CNN "Note"
@@ -40,11 +40,11 @@ F 5 "TPA3244DDWR" H 2800 2350 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 3 1 61803DD3
 P 5700 4200
 F 0 "U1" H 5500 5450 50  0000 C CNN
-F 1 "TPA3244" H 5950 5450 50  0000 C CNN
+F 1 "TPA3245" H 5950 5450 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 5400 4700 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 5400 4700 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 5700 4200 50  0001 C CNN "Note"
@@ -53,11 +53,11 @@ F 5 "TPA3244DDWR" H 5700 4200 50  0001 C CNN "Part"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Discrete_Channel-rescue:TPA3244-TPA3244 U1
+L TPA3244:TPA3245 U1
 U 4 1 618062DF
 P 5700 5150
 F 0 "U1" H 5500 6400 50  0000 C CNN
-F 1 "TPA3244" H 5950 6400 50  0000 C CNN
+F 1 "TPA3245" H 5950 6400 50  0000 C CNN
 F 2 "Custom_TO:HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm" H 5400 5650 50  0001 C CNN
 F 3 "https://www.ti.com/lit/ds/symlink/tpa3244.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1636011771112&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpa3244" H 5400 5650 50  0001 C CNN
 F 4 "https://www.digikey.com/en/products/detail/texas-instruments/TPA3244DDWR/6566104" H 5700 5150 50  0001 C CNN "Note"
@@ -537,10 +537,10 @@ U 1 1 61919789
 P 8050 3500
 F 0 "L2" V 8100 3500 50  0000 C CNN
 F 1 "10 uH" V 8000 3500 50  0000 C CNN
-F 2 "Inductor_SMD:L_12x12mm_H6mm" H 8050 3500 50  0001 C CNN
-F 3 "https://www.we-online.com/katalog/datasheet/74477110.pdf" H 8050 3500 50  0001 C CNN
-F 4 "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74477110/1638613" V 8050 3500 50  0001 C CNN "Note"
-F 5 "74477110" V 8050 3500 50  0001 C CNN "Part"
+F 2 "" H 8050 3500 50  0001 C CNN
+F 3 "https://www.we-https://www.mouser.com/datasheet/2/445/7443631000-1721549.pdf" H 8050 3500 50  0001 C CNN
+F 4 "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/7443631000/2440338" V 8050 3500 50  0001 C CNN "Note"
+F 5 "7443631000" V 8050 3500 50  0001 C CNN "Part"
 	1    8050 3500
 	0    -1   -1   0   
 $EndComp
@@ -584,7 +584,7 @@ OUT_C
 Text Label 7900 4400 2    50   ~ 0
 OUT_A
 Text Notes 8350 3400 0    50   ~ 0
-TPA3244\nOutputs Paralleled afted LC Filter
+TPA3245\n(PBTL) Outputs Paralleled afted LC Filter
 $Comp
 L Device:C_Small C4
 U 1 1 619B7C53
@@ -1531,7 +1531,7 @@ Text GLabel 3800 7400 0    50   Input ~ 0
 VCC
 Text GLabel 3800 7200 0    50   Input ~ 0
 VEE
-Text HLabel 1800 7000 0    50   Input ~ 0
+Text HLabel 1800 7200 0    50   Input ~ 0
 ~RESET
 Text HLabel 1800 7400 0    50   Output ~ 0
 OSC_IOM
@@ -1539,7 +1539,7 @@ Text HLabel 1800 7300 0    50   Output ~ 0
 OSC_IOP
 Text HLabel 1800 7100 0    50   Output ~ 0
 ~FAULT
-Text HLabel 1800 7200 0    50   Output ~ 0
+Text HLabel 1800 7000 0    50   Output ~ 0
 ~ERROR
 $Comp
 L Connector:Conn_01x05_Male J3
@@ -1731,10 +1731,10 @@ F 3 "~" H 1800 2900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0104
 U 1 1 61E2223B
 P 1900 2900
-F 0 "#PWR?" H 1900 2650 50  0001 C CNN
+F 0 "#PWR0104" H 1900 2650 50  0001 C CNN
 F 1 "GND" H 1900 2750 50  0001 C CNN
 F 2 "" H 1900 2900 50  0001 C CNN
 F 3 "" H 1900 2900 50  0001 C CNN
@@ -1742,14 +1742,42 @@ F 3 "" H 1900 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDA #PWR?
+L power:GNDA #PWR0105
 U 1 1 61E23DCD
 P 1700 2900
-F 0 "#PWR?" H 1700 2650 50  0001 C CNN
+F 0 "#PWR0105" H 1700 2650 50  0001 C CNN
 F 1 "GNDA" H 1800 2750 50  0000 R CNN
 F 2 "" H 1700 2900 50  0001 C CNN
 F 3 "" H 1700 2900 50  0001 C CNN
 	1    1700 2900
 	1    0    0    -1  
 $EndComp
+Text Notes 10600 7650 0    50   ~ 0
+3
+Text Notes 7000 6700 0    50   ~ 0
+Revision Notes:\nAdopted TPA3245 for Heatsinking
+Wire Notes Line
+	3700 4800 3700 5000
+Wire Notes Line
+	3700 5000 4000 5000
+Wire Notes Line
+	4000 5000 4000 4800
+Wire Notes Line
+	4000 4800 3700 4800
+Wire Notes Line
+	8150 4150 8550 4150
+Wire Notes Line
+	8550 4150 8550 3700
+Wire Notes Line
+	8550 3700 8150 3700
+Wire Notes Line
+	8150 3700 8150 4150
+Wire Notes Line
+	8200 3600 8200 3400
+Wire Notes Line
+	8200 3400 7650 3400
+Wire Notes Line
+	7650 3400 7650 3600
+Wire Notes Line
+	7650 3600 8200 3600
 $EndSCHEMATC
